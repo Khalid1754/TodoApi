@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\todoapi\\migrations\\20241225181123_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:migrations\\20241225181123_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,76 +62,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Show.cs",
-              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Models\\Show.cs",
-              "RelativeDocumentMoniker": "Models\\Show.cs",
-              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Models\\Show.cs",
-              "RelativeToolTip": "Models\\Show.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20241225181123_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Migrations\\20241225181123_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241225181123_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Migrations\\20241225181123_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241225181123_InitialCreate.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwBsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:45:42.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Models\\Booking.cs",
-              "RelativeToolTip": "Models\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:43:10.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Concert.cs",
-              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Models\\Concert.cs",
-              "RelativeDocumentMoniker": "Models\\Concert.cs",
-              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Models\\Concert.cs",
-              "RelativeToolTip": "Models\\Concert.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:40:33.898Z",
+              "WhenOpened": "2024-12-25T18:11:24.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T17:40:20.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TodoItemsController.cs",
               "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
               "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
               "RelativeToolTip": "Controllers\\TodoItemsController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwH0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowH0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:19:51.879Z"
+              "WhenOpened": "2024-12-25T16:19:51.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:18:08.085Z"
+              "WhenOpened": "2024-12-25T16:18:08.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "Models\\TodoContext.cs",
               "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
               "RelativeToolTip": "Models\\TodoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:17:45.192Z"
+              "WhenOpened": "2024-12-25T16:17:45.192Z",
+              "EditorCaption": ""
             }
           ]
         }

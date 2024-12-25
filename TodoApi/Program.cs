@@ -3,9 +3,11 @@ using TodoApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Lägg till DbContext och konfigurera med SQL Server
 builder.Services.AddControllers();
-builder.Services.AddDbContext<TodoContext>(opt =>
-    opt.UseInMemoryDatabase("TodoList"));
+builder.Services.AddDbContext<TodoContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TodoApi")));
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
