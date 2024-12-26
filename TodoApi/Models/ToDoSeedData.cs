@@ -73,7 +73,67 @@ public static class ToDoSeedData
             );
             context.SaveChanges();
 
+           
 
+            if (context.Show.Any())
+            {
+                return;
+            }
+
+            context.Show.AddRange(
+
+                new Show()
+                {
+                    ConcertId = 1,
+                    Location = "Gamla Ullevi",
+                    DateTime = DateTime.Now.AddDays(10),
+                },
+
+                new Show()
+                {
+                    ConcertId = 2,
+                    Location = "Nya Ullevi",
+                    DateTime = DateTime.Now.AddDays(15),
+
+                },
+
+                new Show()
+                {
+                    ConcertId = 3,
+                    Location = "NyGamla Ullevi",
+                    DateTime = DateTime.Now.AddDays(20),
+
+                },
+
+                new Show()
+                {
+                    ConcertId = 4,
+                    Location = "Globen",
+                    DateTime = DateTime.Now.AddDays(25),
+
+                },
+
+                new Show()
+                {
+                    ConcertId = 5,
+                    Location = "Friends Arena",
+                    DateTime = DateTime.Now.AddDays(30),
+
+                },
+
+                new Show()
+                {
+                    ConcertId = 6,
+                    Location = "SlottSkogen",
+                    DateTime = DateTime.Now.AddDays(35),
+
+                }
+            );
+
+            context.SaveChanges();
+
+
+            
         }
     }
 }
