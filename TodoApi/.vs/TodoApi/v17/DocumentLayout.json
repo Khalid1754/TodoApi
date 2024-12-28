@@ -1,16 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Min dator\\Documents\\GitHub\\TodoApi\\TodoApi\\",
+  "WorkspaceRootPath": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoContext/True/SqlTable/dbo.Show.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{B397BB13-7BCF-4F34-8C0E-6C36BECAD08C}|..\\ConcertBookingApp\\ConcertBookingApp.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\concertbookingapp\\views\\bookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|c:\\users\\min dator\\documents\\github\\todoapi\\todoapi\\models\\todoseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D49A9EC-1763-468A-9276-15C89E8A9CB0}|TodoApi.csproj|solutionrelative:models\\todoseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B397BB13-7BCF-4F34-8C0E-6C36BECAD08C}|..\\ConcertBookingApp\\ConcertBookingApp.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\concertbookingapp\\views\\bookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoContext/True/SqlTable/dbo.Concert.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{B397BB13-7BCF-4F34-8C0E-6C36BECAD08C}|..\\ConcertBookingApp\\ConcertBookingApp.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\concertbookingapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B397BB13-7BCF-4F34-8C0E-6C36BECAD08C}|..\\ConcertBookingApp\\ConcertBookingApp.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\concertbookingapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B397BB13-7BCF-4F34-8C0E-6C36BECAD08C}|..\\ConcertBookingApp\\ConcertBookingApp.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\todoapi\\concertbookingapp\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +25,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -32,7 +37,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -52,36 +57,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Concert [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoContext/True/SqlTable/dbo.Concert.sql",
-              "ToolTip": "dbo.Concert [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-26T17:46:48.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Show [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoContext/True/SqlTable/dbo.Show.sql",
-              "ToolTip": "dbo.Show [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-26T17:43:11.653Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "..\\ConcertBookingApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\AppShell.xaml",
+              "RelativeToolTip": "..\\ConcertBookingApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T17:15:38.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ToDoSeedData.cs",
-              "DocumentMoniker": "C:\\Users\\Min dator\\Documents\\GitHub\\TodoApi\\TodoApi\\Models\\ToDoSeedData.cs",
-              "RelativeDocumentMoniker": "Models\\ToDoSeedData.cs",
-              "ToolTip": "C:\\Users\\Min dator\\Documents\\GitHub\\TodoApi\\TodoApi\\Models\\ToDoSeedData.cs",
-              "RelativeToolTip": "Models\\ToDoSeedData.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAQwH4AAAAgAAAAAAAAAA==",
+              "Title": "BookingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\Views\\BookingPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ConcertBookingApp\\Views\\BookingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\Views\\BookingPage.xaml.cs",
+              "RelativeToolTip": "..\\ConcertBookingApp\\Views\\BookingPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T12:07:43.626Z",
+              "WhenOpened": "2024-12-28T17:14:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\Views\\BookingPage.xaml",
+              "RelativeDocumentMoniker": "..\\ConcertBookingApp\\Views\\BookingPage.xaml",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\Views\\BookingPage.xaml",
+              "RelativeToolTip": "..\\ConcertBookingApp\\Views\\BookingPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T17:14:32.627Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "..\\ConcertBookingApp\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\Services\\BookingService.cs",
+              "RelativeToolTip": "..\\ConcertBookingApp\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:13:50.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "..\\ConcertBookingApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\TodoApi\\ConcertBookingApp\\MauiProgram.cs",
+              "RelativeToolTip": "..\\ConcertBookingApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:58:12.528Z"
             }
           ]
         }

@@ -859,7 +859,8 @@
           },
           "concertId": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "concert": {
             "$ref": "#/components/schemas/Concert"
