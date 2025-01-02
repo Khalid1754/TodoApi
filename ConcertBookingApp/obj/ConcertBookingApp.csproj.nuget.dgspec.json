@@ -71,11 +71,19 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
             "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.21, )"
+            },
+            "Microsoft.Maui.Essentials": {
               "target": "Package",
               "version": "[9.0.21, )"
             },
@@ -114,11 +122,19 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
             "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.21, )"
+            },
+            "Microsoft.Maui.Essentials": {
               "target": "Package",
               "version": "[9.0.21, )"
             },
@@ -157,11 +173,19 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
             "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.21, )"
+            },
+            "Microsoft.Maui.Essentials": {
               "target": "Package",
               "version": "[9.0.21, )"
             },
@@ -201,11 +225,19 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
             "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.21, )"
+            },
+            "Microsoft.Maui.Essentials": {
               "target": "Package",
               "version": "[9.0.21, )"
             }

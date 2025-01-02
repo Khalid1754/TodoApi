@@ -17,7 +17,11 @@ public static class MauiProgram
             });
 
         // Register services and pages
+        builder.Services.AddSingleton<IConcertService, ConcertService>();
         builder.Services.AddSingleton<IBookingService, BookingService>();
+
+        // Register pages
+        builder.Services.AddTransient<ConcertListPage>();
         builder.Services.AddTransient<BookingPage>();
 
         return builder.Build();

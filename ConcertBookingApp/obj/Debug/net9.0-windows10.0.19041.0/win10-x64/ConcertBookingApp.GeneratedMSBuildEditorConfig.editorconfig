@@ -57,3 +57,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ConcertBookingApp.Views.BookingPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\BookingPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\BookingPage.xaml
+
+[C:/Users/khali/OneDrive/Dokument/GitHub/TodoApi/ConcertBookingApp/Views/ConcertDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ConcertBookingApp.Views.ConcertDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ConcertDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ConcertDetailsPage.xaml
+
+[C:/Users/khali/OneDrive/Dokument/GitHub/TodoApi/ConcertBookingApp/Views/ConcertListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ConcertBookingApp.Views.ConcertListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ConcertListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ConcertListPage.xaml

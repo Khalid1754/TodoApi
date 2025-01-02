@@ -1,4 +1,6 @@
-﻿namespace ConcertBookingApp
+﻿using ConcertBookingApp.Views;
+
+namespace ConcertBookingApp
 {
     public partial class App : Application
     {
