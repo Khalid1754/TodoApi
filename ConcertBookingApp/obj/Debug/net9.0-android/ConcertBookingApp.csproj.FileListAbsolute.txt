@@ -945,6 +945,7 @@ C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hant\Microsoft.Maui.Controls.resources.dll
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-HK\Microsoft.Maui.Controls.resources.dll
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\assets\x86_64\_Microsoft.Android.Resource.Designer.dll
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.ll
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\typemaps.x86_64.ll
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\AndroidManifest.xml
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\AndroidManifest.xml
@@ -954,6 +955,7 @@ C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\bin\mono.android.jar
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\static.flag
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\__environment__.txt
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\environment.arm64-v8a.ll
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\environment.x86_64.ll
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\src\androidx\activity\ktx\R.java
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\src\androidx\activity\R.java
@@ -1316,12 +1318,19 @@ C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\bin\packaged_resources
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\src\com\companyname\concertbookingapp\R.java
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\_CompileJava.FileList.txt
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.ll
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.ll
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.o
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\typemaps.x86_64.o
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\environment.arm64-v8a.o
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\environment.x86_64.o
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.o
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.o
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\marshal_methods.arm64-v8a.o
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\marshal_methods.x86_64.o
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\jni_remap.arm64-v8a.o
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\jni_remap.x86_64.o
+C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\app_shared_libraries\x86_64\libxamarin-app.so
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\bin\classes.dex
 C:\Users\khali\OneDrive\Dokument\GitHub\TodoApi\ConcertBookingApp\obj\Debug\net9.0-android\android\bin\classes2.dex

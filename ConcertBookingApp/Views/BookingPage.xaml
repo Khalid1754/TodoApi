@@ -2,23 +2,13 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ConcertBookingApp.Views.BookingPage"
-             Title="Booking">
-    <VerticalStackLayout Margin="20">
-        <Label Text="Name" />
-        <Entry Text="{Binding Booking.CustomerName}" 
-               Placeholder="Enter Name" />
-        <Label Text="Email" />
-        <Entry Text="{Binding Booking.CustomerEmail}" 
-               Placeholder="Enter Email" />
-        <Label Text="Phone" />
-        <Entry Text="{Binding Booking.CustomerPhone}" 
-               Placeholder="Enter Phone number" />
-        <Switch IsToggled="{Binding Booking.IsComplete}" />
-        <Button Text="Save" 
-                Clicked="OnSaveButtonClicked" />
-        <Button Text="Delete" 
-                Clicked="OnDeleteButtonClicked" />
-        <Button Text="Cancel" 
-                Clicked="OnCancelButtonClicked" />
-    </VerticalStackLayout>
+             Title="Book Concert">
+    <StackLayout Padding="20">
+        <Label Text="{Binding ConcertTitle}" FontSize="24" FontAttributes="Bold" />
+        <Entry Placeholder="Name" Text="{Binding CustomerName}" />
+        <Entry Placeholder="Email" Text="{Binding CustomerEmail}" />
+      <Entry Placeholder="Phone number" Text="{Binding CustomerPhone}" />
+        <Button Text="Save Booking" Clicked="OnSaveButtonClicked" />
+        <Button Text="Cancel" Clicked="OnCancelButtonClicked" />
+    </StackLayout>
 </ContentPage>

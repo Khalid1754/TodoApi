@@ -41,7 +41,6 @@ public partial class ConcertListPage : ContentPage
         var selectedConcert = button?.BindingContext as Concert;
         if (selectedConcert != null)
         {
-            // Navigera till ConcertDetailsPage och skicka den valda konserten
             await Navigation.PushAsync(new ConcertDetailsPage(selectedConcert));
         }
     }

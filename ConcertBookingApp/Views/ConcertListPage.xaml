@@ -19,7 +19,6 @@
                             <VerticalStackLayout>
                                 <Label Text="{Binding Title}" FontSize="20" FontAttributes="Bold" />
                                 <Label Text="{Binding Description}" FontSize="14" TextColor="Gray" />
-                                <Label Text="{Binding Genres}" FontSize="14" TextColor="Blue" />
                                 <Label Text="{Binding Price, StringFormat='Price: {0:C}'}" FontSize="16" />
 
                                 <Button Text="View Details" Clicked="OnViewDetailsClicked" />

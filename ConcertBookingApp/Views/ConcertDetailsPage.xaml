@@ -8,7 +8,6 @@
             <Label Text="{Binding Description}" FontSize="16" TextColor="Gray" />
             <Label Text="Duration: {Binding Duration} minutes" FontSize="14" />
             <Label Text="{Binding Price, StringFormat='Price: {0:C}'}" FontSize="18" />
-            <Label Text="{Binding Genres}" FontSize="16" TextColor="Blue" />
 
             <Label Text="{Binding BookingCount, StringFormat='Bookings: {0}'}" FontSize="16" TextColor="Green" />
 
